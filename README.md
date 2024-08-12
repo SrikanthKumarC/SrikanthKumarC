@@ -26,7 +26,7 @@ experience.
 power automation and sending of notifications to users.
     -  User authentication based on Firebase Auth
     -  Built using Next.js, SQLite, Firebase Functions, Serverless Framework.
-    **GitHub Links:**
+    - **GitHub Links:**
         - https://github.com/SrikanthKumarC/RemindBot
 2. [PayTrack](https://paytrack.srikanth.ch) - Major Project, Academic Work
     - Created this project to manage expenses easily
