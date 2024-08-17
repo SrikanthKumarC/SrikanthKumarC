@@ -2,24 +2,7 @@
 I am fullstack developer based in Hyderabad, India. with a strong focus on crafting beautiful websites with excellent user 
 experience.
 
-## Experience
-1. **Freelance Software Developer** - [www.bareitallsugaring.com](www.bareitallsugaring.com)
-    - Created design using Figma to share with the client
-    - Redesigned complete website using TailwindCSS and Next.js
-    - Integrated Square Payments API
-    - Deployed on Vercel for hosting
-
-2. **Software Developer** - TGH Tech Pvt Ltd (Remote | Kerala)
-    - Developed REST APIs using Express.js and Node.js
-    - Tested APIs using Postman
-    - Implemented business logic in the backend
-    - Improved system reliability using database locks
-3. **Software Engineer** - Indian Army Service Corps (Hyderabad)
-    - Implemented algorithm for automated scheduling of classes
-    - Ported data from existing Excel documents (.xlsx) to custom JSON Objects
-    - Custom Frontend and Backend developed using Next.js, Express.js, Node.js and MongoDB
-
-## Projects
+## Highlighted Projects 
 1. [Remindbot.xyz](https://remindbot.xyz) - Personal Project
     - Objective: Remind users about events they registered in the website
     -  Uses AWS SQS and AWS Lambda along with AWS EventBridge integrated with Zoho Zepto Mail to
